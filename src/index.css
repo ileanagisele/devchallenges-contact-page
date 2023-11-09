@@ -1,0 +1,12 @@
+body {
+    background-image: url(.\assets\bg-image.svg);
+    background-size: cover;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 1rem;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    margin: 0%;
+}
